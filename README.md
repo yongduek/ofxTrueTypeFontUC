@@ -2,7 +2,9 @@
 
 https://brunch.co.kr/@jade/203
 
-![ofxTrueTypeFontUC Screenshot](http://hironishihara.github.io/ofxTrueTypeFontUC/img/screenshot_yndk.png)
+To simply use the ofx addon, put the files in `src` directory to `addons` in `xcode` project.
+
+# below is the original README.md
 
 # ofxTrueTypeFontUC
 
